@@ -1,22 +1,37 @@
+@font-face {
+  font-family: 'OpenSans';
+  src: url('OpenSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url('OpenSans-Bold.ttf');
+  font-weight: bold;
+}
+
 .App {
   text-align: center;
+  font-family: 'OpenSans';
+  max-width: 960px;
+  position: relative;
+  min-height: 620px;
 }
 
-.App-logo {
-  height: 40vmin;
+img {
+  width: 200px;
+  cursor: pointer;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.letter {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 10px;
+  cursor: pointer;
 }
 
-.App-link {
-  color: #09d3ac;
+.copyright {
+  position: absolute;
+  bottom: -60px;
+  left: 50%;
+  transform: translateX(-50%);
 }

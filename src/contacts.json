@@ -1,0 +1,58 @@
+{
+    "contacts": [
+        {
+            "id": 0,
+            "name": "Kiss Bence",
+            "email": "bence.kiss@kissbence.com",
+            "phoneNumber": "+3670303030"
+        },
+        {
+            "id": 1,
+            "name": "Kovács Ibolya",
+            "email": "ibolya.kovacs@kovacsibolya.com",
+            "phoneNumber": "+3670505050"
+        },
+        {
+            "id": 2,
+            "name": "Nagy Dávid",
+            "email": "david.nagy@nagydavid.com",
+            "phoneNumber": "+3670404040"
+        },
+        {
+            "id": 3,
+            "name": "Apró Bálint",
+            "email": "balint.apro@aprobalint.com",
+            "phoneNumber": "+3670504040"
+        },
+        {
+            "id": 4,
+            "name": "Czöndör László",
+            "email": "laszlo.czondor@czondorlaszlo.com",
+            "phoneNumber": "+3670604040"
+        },
+        {
+            "id": 5,
+            "name": "Nagy Renáta",
+            "email": "renata.nagy@nagyrenata.com",
+            "phoneNumber": "+3670704040"
+        },
+        {
+            "id": 6,
+            "name": "Dávid Zoltán",
+            "email": "zoltan.david@davidzoltan.com",
+            "phoneNumber": "+3670804040"
+        },
+        {
+            "id": 7,
+            "name": "Tóth Tamás",
+            "email": "tamas.toth@tothtamas.com",
+            "phoneNumber": "+3670409040"
+        },
+        {
+            "id": 8,
+            "name": "Fodor Bernadett",
+            "email": "bernadett.fodor@fodorbernadett.com",
+            "phoneNumber": "+3670104040"
+        }
+    ]
+}
