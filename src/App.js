@@ -71,7 +71,7 @@ class App extends Component {
 					<SearchInput search={this.search}/>
 				</div>
 				<Switch>
-					<Route exact path={[process.env.PUBLIC_URL + "/", process.env.PUBLIC_URL + "/letters/:letter"]} render={props => (
+					<Route exact path={["/", "/letters/:letter"]} render={props => (
 						<Contacts
 							{...props}
 							contacts={this.state.contacts}
@@ -80,20 +80,20 @@ class App extends Component {
 							reset={this.reset}
 						/>
 					)}/>
-					<Route exact path={process.env.PUBLIC_URL + "/addcontact"} render={props => (
+					<Route exact path="/addcontact" render={props => (
 						<AddContactForm
 							{...props}
 							addContact={this.addContact}
 						/>
 					)}/>
-					<Route exact path={process.env.PUBLIC_URL + "/contacts/:contact"} render={props => (
+					<Route exact path="/contacts/:contact" render={props => (
 						<ContactView
 							{...props}
 							contacts={this.state.contacts}
 							deleteContact={this.deleteContact}
 						/>
 					)}/>
-					<Route exact path={process.env.PUBLIC_URL + "/contacts/:contact/edit"} render={props => (
+					<Route exact path="/contacts/:contact/edit" render={props => (
 						<EditContactForm
 							{...props}
 							contacts={this.state.contacts}
