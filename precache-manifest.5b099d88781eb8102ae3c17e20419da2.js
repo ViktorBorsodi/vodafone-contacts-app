@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dba2618920f919770288e2b4d883e0c1",
+    "revision": "313d5974f21d675130c040ba2b937ce7",
     "url": "/vodafone-contacts-app/index.html"
   },
   {
-    "revision": "b95551a6f5c2926d8d03",
+    "revision": "c36f67a662411d636689",
     "url": "/vodafone-contacts-app/static/css/main.0778dc18.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vodafone-contacts-app/static/js/2.cc188bc4.chunk.js"
   },
   {
-    "revision": "b95551a6f5c2926d8d03",
-    "url": "/vodafone-contacts-app/static/js/main.e708aec0.chunk.js"
+    "revision": "c36f67a662411d636689",
+    "url": "/vodafone-contacts-app/static/js/main.19c41f51.chunk.js"
   },
   {
     "revision": "54cc99cb1dff35cc8382",
