@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vodafone-contacts-app/precache-manifest.5b099d88781eb8102ae3c17e20419da2.js"
+  "/vodafone-contacts-app/precache-manifest.5fe73fe118280020af65a38603c2356f.js"
 );
 
 self.addEventListener('message', (event) => {

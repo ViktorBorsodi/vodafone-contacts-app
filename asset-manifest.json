@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vodafone-contacts-app/static/css/main.0778dc18.chunk.css",
-    "main.js": "/vodafone-contacts-app/static/js/main.19c41f51.chunk.js",
-    "main.js.map": "/vodafone-contacts-app/static/js/main.19c41f51.chunk.js.map",
+    "main.js": "/vodafone-contacts-app/static/js/main.86bc78ec.chunk.js",
+    "main.js.map": "/vodafone-contacts-app/static/js/main.86bc78ec.chunk.js.map",
     "runtime-main.js": "/vodafone-contacts-app/static/js/runtime-main.fe7224b3.js",
     "runtime-main.js.map": "/vodafone-contacts-app/static/js/runtime-main.fe7224b3.js.map",
     "static/js/2.cc188bc4.chunk.js": "/vodafone-contacts-app/static/js/2.cc188bc4.chunk.js",
     "static/js/2.cc188bc4.chunk.js.map": "/vodafone-contacts-app/static/js/2.cc188bc4.chunk.js.map",
     "index.html": "/vodafone-contacts-app/index.html",
-    "precache-manifest.5b099d88781eb8102ae3c17e20419da2.js": "/vodafone-contacts-app/precache-manifest.5b099d88781eb8102ae3c17e20419da2.js",
+    "precache-manifest.5fe73fe118280020af65a38603c2356f.js": "/vodafone-contacts-app/precache-manifest.5fe73fe118280020af65a38603c2356f.js",
     "service-worker.js": "/vodafone-contacts-app/service-worker.js",
     "static/css/main.0778dc18.chunk.css.map": "/vodafone-contacts-app/static/css/main.0778dc18.chunk.css.map",
     "static/media/App.css": "/vodafone-contacts-app/static/media/OpenSans-Regular.d7d5d458.ttf",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fe7224b3.js",
     "static/js/2.cc188bc4.chunk.js",
     "static/css/main.0778dc18.chunk.css",
-    "static/js/main.19c41f51.chunk.js"
+    "static/js/main.86bc78ec.chunk.js"
   ]
 }
