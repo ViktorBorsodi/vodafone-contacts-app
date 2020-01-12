@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import jsonData from './contacts.json'
-import image from './vodafone_logo.svg'
+import image from './banner.png'
 import SearchInput from './SearchInput'
 import Contacts from './Contacts'
 import AddContactForm from './AddContactForm'
@@ -101,7 +101,7 @@ class App extends Component {
 						/>
 					)}/>
 				</Switch>
-				<p className="copyright">All Rights Reserved. VSSB 2018.</p>
+				<p className="copyright">Coded by <a href="https://www.linkedin.com/in/viktor-borsodi-73690062/" target='_blank'>Viktor Borsodi</a></p>
 			</div>
 		);
 	}
