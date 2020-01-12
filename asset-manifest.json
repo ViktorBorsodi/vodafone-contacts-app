@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/vodafone-contacts-app/static/css/main.cfbe56bb.chunk.css",
-    "main.js": "/vodafone-contacts-app/static/js/main.8fa4c02b.chunk.js",
-    "main.js.map": "/vodafone-contacts-app/static/js/main.8fa4c02b.chunk.js.map",
-    "runtime-main.js": "/vodafone-contacts-app/static/js/runtime-main.fe7224b3.js",
-    "runtime-main.js.map": "/vodafone-contacts-app/static/js/runtime-main.fe7224b3.js.map",
-    "static/js/2.cc188bc4.chunk.js": "/vodafone-contacts-app/static/js/2.cc188bc4.chunk.js",
-    "static/js/2.cc188bc4.chunk.js.map": "/vodafone-contacts-app/static/js/2.cc188bc4.chunk.js.map",
-    "index.html": "/vodafone-contacts-app/index.html",
-    "precache-manifest.05a0d17b806bed26d5839b1352aed2a6.js": "/vodafone-contacts-app/precache-manifest.05a0d17b806bed26d5839b1352aed2a6.js",
-    "service-worker.js": "/vodafone-contacts-app/service-worker.js",
-    "static/css/main.cfbe56bb.chunk.css.map": "/vodafone-contacts-app/static/css/main.cfbe56bb.chunk.css.map",
-    "static/media/App.css": "/vodafone-contacts-app/static/media/OpenSans-Regular.d7d5d458.ttf",
-    "static/media/banner.png": "/vodafone-contacts-app/static/media/banner.00129bd1.png"
+    "main.css": "/contacts-app/static/css/main.1eb11a3c.chunk.css",
+    "main.js": "/contacts-app/static/js/main.cb5b25ea.chunk.js",
+    "main.js.map": "/contacts-app/static/js/main.cb5b25ea.chunk.js.map",
+    "runtime-main.js": "/contacts-app/static/js/runtime-main.a90dcaaa.js",
+    "runtime-main.js.map": "/contacts-app/static/js/runtime-main.a90dcaaa.js.map",
+    "static/js/2.cc188bc4.chunk.js": "/contacts-app/static/js/2.cc188bc4.chunk.js",
+    "static/js/2.cc188bc4.chunk.js.map": "/contacts-app/static/js/2.cc188bc4.chunk.js.map",
+    "index.html": "/contacts-app/index.html",
+    "precache-manifest.5370f3b303e88dd89b34b02d957fbd2e.js": "/contacts-app/precache-manifest.5370f3b303e88dd89b34b02d957fbd2e.js",
+    "service-worker.js": "/contacts-app/service-worker.js",
+    "static/css/main.1eb11a3c.chunk.css.map": "/contacts-app/static/css/main.1eb11a3c.chunk.css.map",
+    "static/media/App.css": "/contacts-app/static/media/OpenSans-Regular.d7d5d458.ttf",
+    "static/media/banner.png": "/contacts-app/static/media/banner.00129bd1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe7224b3.js",
+    "static/js/runtime-main.a90dcaaa.js",
     "static/js/2.cc188bc4.chunk.js",
-    "static/css/main.cfbe56bb.chunk.css",
-    "static/js/main.8fa4c02b.chunk.js"
+    "static/css/main.1eb11a3c.chunk.css",
+    "static/js/main.cb5b25ea.chunk.js"
   ]
 }
